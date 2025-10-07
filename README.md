@@ -16,13 +16,6 @@
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile.
 - **No Backend Needed**: Pure frontend—data stored in browser (localStorage for persistence in future updates).
 
-## 📱 Demo
-Live preview: [budgetbee-demo.vercel.app](https://budgetbee-demo.vercel.app) (or host your own via GitHub Pages).
-
-![Dashboard Screenshot](screenshots/dashboard.png) <!-- Replace with actual image: Upload to repo's 'screenshots' folder -->
-
-![Categories Screenshot](screenshots/categories.png)
-
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3 (with CSS variables for theming), Vanilla JavaScript
 - **Charts**: [Chart.js](https://www.chartjs.org/) for visualizations
